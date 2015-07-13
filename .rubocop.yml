@@ -1,5 +1,2 @@
 Lint/EndAlignment:
   AlignWith: variable
-
-Style/Blocks:
-  Enabled: false
